@@ -20,6 +20,15 @@
   },
   "homepage": "https://github.com/Nitin2004-AA/ChatoMania#readme",
   "dependencies": {
-    "resend": "^6.0.2"
+    "@arcjet/inspect": "^1.0.0-beta.10",
+    "@arcjet/node": "^1.0.0-beta.10",
+    "cors": "^2.8.6",
+    "resend": "^6.0.2",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^3.4.19"
   }
 }
