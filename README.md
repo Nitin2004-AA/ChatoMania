@@ -1,5 +1,6 @@
+<img width="1919" height="876" alt="Screenshot 2026-04-06 001251" src="https://github.com/user-attachments/assets/4a37d0c9-1774-4966-9b6c-617d2fc8673e" />
 ChatoMania 💬
-A full-stack real-time chat application built with the MERN stack and Socket.IO. 
+->A full-stack real-time chat application built with the MERN stack and Socket.IO. 
 ChatoMania lets users sign up, find contacts, and exchange messages instantly with 
 live online/offline status indicators.
 
